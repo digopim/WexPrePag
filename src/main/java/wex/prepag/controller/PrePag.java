@@ -23,7 +23,7 @@ public class PrePag {
     
     @RequestMapping("/")
     public String index() {
-        return "Ola!";
+        return "Ola Desafio WEX PrePaG! utilize a URL + /cartoes para acessar as funcionalidades";
     }
     
     @RequestMapping(method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON, value = "/cartoes")
