@@ -1,0 +1,2 @@
+insert into Cartao(id, nome, numero, validade, senha, saldo) values (1, 'Diego', '5109221161325539', '2019-07-03', '1234', 1000)
+insert into Cartao(id, nome, numero, validade, senha, saldo) values (2, 'Kelly', '5109224778993086', '2019-07-03', '4321', 100)
